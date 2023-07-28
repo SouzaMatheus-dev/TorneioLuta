@@ -1,0 +1,11 @@
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\obj\Debug\net6.0\TorneioLuta.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\obj\Debug\net6.0\TorneioLuta.Dominio.AssemblyInfoInputs.cache
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\obj\Debug\net6.0\TorneioLuta.Dominio.AssemblyInfo.cs
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\obj\Debug\net6.0\TorneioLuta.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\bin\Debug\net6.0\TorneioLuta.Dominio.deps.json
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\bin\Debug\net6.0\TorneioLuta.Dominio.dll
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\bin\Debug\net6.0\ref\TorneioLuta.Dominio.dll
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\bin\Debug\net6.0\TorneioLuta.Dominio.pdb
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\obj\Debug\net6.0\TorneioLuta.Dominio.dll
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\obj\Debug\net6.0\ref\TorneioLuta.Dominio.dll
+C:\Users\Matheus Neves\Desktop\TorneioLuta\src\TorneioLuta.Domain\obj\Debug\net6.0\TorneioLuta.Dominio.pdb

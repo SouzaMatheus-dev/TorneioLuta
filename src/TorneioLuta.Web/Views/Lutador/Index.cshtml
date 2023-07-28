@@ -1,0 +1,29 @@
+﻿@model List<TorneioLuta.Dominio.Entidades.Lutadores>;
+@using TorneioLuta.Dominio.Entidades;
+
+@{
+    ViewData["Title"] = "Lutadores";
+}
+
+<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+    @foreach (var item in Model)
+    {
+    <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card-header py-3">
+                <h4 class="my-0 fw-normal">@item.Nome</h4>
+            </div>
+            <div class="card-body">
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li hidden>Id: @item.Id</li> @*No checkbox, vc tem que colocar esse id para que no js vc consiga pegar qual lutador é*@
+                    <li>Idade: @item.Idade</li>
+                    <li>Lutas: @item.Lutas</li>
+                    <li>Derrotas: @item.Derrotas</li>
+                    <li>Vitórias: @item.Vitorias</li>
+                    <li>Artes Marcias: @item.ArtesMarciais?.Count()</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    }
+</div>

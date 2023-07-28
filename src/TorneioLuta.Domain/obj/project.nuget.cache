@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtitucesAElFjBEzKWR0HwrDTjjP4mrSTOcTNOAr8uCwTIS5PXr7eolbfr1UrOtB7eSow3m91ByuRFD6pbNC1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Neves\\Desktop\\TorneioLuta\\src\\TorneioLuta.Domain\\TorneioLuta.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Neves\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

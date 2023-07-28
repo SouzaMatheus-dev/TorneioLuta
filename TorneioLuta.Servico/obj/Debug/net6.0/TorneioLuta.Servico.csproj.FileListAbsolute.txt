@@ -1,0 +1,15 @@
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\bin\Debug\net6.0\TorneioLuta.Servico.deps.json
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\bin\Debug\net6.0\TorneioLuta.Servico.dll
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\bin\Debug\net6.0\ref\TorneioLuta.Servico.dll
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\bin\Debug\net6.0\TorneioLuta.Servico.pdb
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\bin\Debug\net6.0\TorneioLuta.Dominio.dll
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\bin\Debug\net6.0\TorneioLuta.Dominio.pdb
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\obj\Debug\net6.0\TorneioLuta.Servico.csproj.AssemblyReference.cache
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\obj\Debug\net6.0\TorneioLuta.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\obj\Debug\net6.0\TorneioLuta.Servico.AssemblyInfoInputs.cache
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\obj\Debug\net6.0\TorneioLuta.Servico.AssemblyInfo.cs
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\obj\Debug\net6.0\TorneioLuta.Servico.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\obj\Debug\net6.0\TorneioLuta.Servico.csproj.CopyComplete
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\obj\Debug\net6.0\TorneioLuta.Servico.dll
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\obj\Debug\net6.0\ref\TorneioLuta.Servico.dll
+C:\Users\Matheus Neves\Desktop\TorneioLuta\TorneioLuta.Servico\obj\Debug\net6.0\TorneioLuta.Servico.pdb

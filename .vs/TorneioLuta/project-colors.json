@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36c5a304-e96a-4758-9ab3-19011d585740": {
+      "ProjectGuid": "36c5a304-e96a-4758-9ab3-19011d585740",
+      "DisplayName": "TorneioLuta.Web",
+      "ColorIndex": 0
+    },
+    "525512ef-1d07-453f-b392-dc2f9c8d025d": {
+      "ProjectGuid": "525512ef-1d07-453f-b392-dc2f9c8d025d",
+      "DisplayName": "TorneioLuta.Web",
+      "ColorIndex": 1
+    },
+    "56e129d1-9929-4672-a441-c7d753e45fce": {
+      "ProjectGuid": "56e129d1-9929-4672-a441-c7d753e45fce",
+      "DisplayName": "TorneioLuta.Dominio",
+      "ColorIndex": 2
+    },
+    "0b631925-94b0-4d87-b817-fcffbeb8d2b3": {
+      "ProjectGuid": "0b631925-94b0-4d87-b817-fcffbeb8d2b3",
+      "DisplayName": "TorneioLuta.Servico",
+      "ColorIndex": 3
+    },
+    "e94fe2a9-1ee2-4c4f-bd05-e91915d8beb1": {
+      "ProjectGuid": "e94fe2a9-1ee2-4c4f-bd05-e91915d8beb1",
+      "DisplayName": "TorneioLuta.Web",
+      "ColorIndex": 4
+    },
+    "570e6a09-980a-4f84-86f0-e8615f6fe46b": {
+      "ProjectGuid": "570e6a09-980a-4f84-86f0-e8615f6fe46b",
+      "DisplayName": "TorneioLuta.Servico",
+      "ColorIndex": 5
+    },
+    "57de2917-7a5d-44a7-b9d3-51c860c28702": {
+      "ProjectGuid": "57de2917-7a5d-44a7-b9d3-51c860c28702",
+      "DisplayName": "Repositorios",
+      "ColorIndex": 6
+    },
+    "059d9890-596b-4159-b350-7594b5dedd0b": {
+      "ProjectGuid": "059d9890-596b-4159-b350-7594b5dedd0b",
+      "DisplayName": "TorneioLuta.Data",
+      "ColorIndex": 7
+    },
+    "d87e720a-331b-4990-84a3-c42f7d93d680": {
+      "ProjectGuid": "d87e720a-331b-4990-84a3-c42f7d93d680",
+      "DisplayName": "TorneioLuta.CrossCutting",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
